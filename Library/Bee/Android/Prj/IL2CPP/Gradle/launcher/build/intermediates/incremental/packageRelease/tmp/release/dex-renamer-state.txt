@@ -1,0 +1,4 @@
+#Wed Sep 28 17:40:10 BRT 2022
+base.0=D\:\\Unity\\UProjects\\VR_TCA\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
